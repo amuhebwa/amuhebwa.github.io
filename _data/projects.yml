@@ -1,0 +1,28 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: "-"
+  role: "-"
+  duration: "-"
+  # url: "#"
+  description:  <b>1.</b> June Lukuyu, <b>Aggrey Muhebwa</b>, and Jay Taneja. 2020.&nbsp;"Fish and Chips:Converting 
+                Fishing Boats for Electric Mobility to Serve as Minigrid Anchor Loads." 
+                In The Eleventh ACM International Conference on Future Energy Systems (e-Energy’20), June 22–26, 2020, Virtual Event, Australia.
+
+
+- project: "-"
+  role: "-"
+  duration: "-"
+  # url: "#"
+  description:  <b>2.</b> Gabriel Cadamuro, <b>Aggrey Muhebwa</b>, and Jay Taneja.&nbsp;"Street Smarts:&nbsp;Measuring Intercity Road 
+                Quality Using Deep Learning on Satellite Imagery." In the Second ACM SIGCAS Conference on Computing and 
+                Sustainable Societies (COMPASS 2019), July 2019.
+
+- project: "-"
+  role: "-"
+  duration: "-"
+  # url: "#"
+  description:  <b>3.</b> Gabriel Cadamuro, <b>Aggrey Muhebwa</b>, and Jay Taneja.&nbsp;"Assigning a Grade:&nbsp;Accurate Measurement of 
+                Road Quality Using Satellite Imagery." In the Second ACM SIGCAS Conference on Computing and 
+                Sustainable Societies (COMPASS 2019), July 2019. In the NeurIPS Workshop on Machine Learning for the Developing World (ML4D ’19). December 2018.

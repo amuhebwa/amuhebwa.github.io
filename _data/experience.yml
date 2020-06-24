@@ -1,0 +1,30 @@
+# Jobs
+# VP of Global Communications
+- company: Atlas AI
+  position: Engineering Intern
+  duration: May, 2020 &mdash; Present
+  summary: Part of the team developing AI tools to deliver intelligence on agriculture, infrastructure and economic trends across the developing world.
+- company: University of Massachusetts - Amherst
+  position: Graduate Researcher
+  duration:  Aug, 2018 &mdash; Present
+  summary:  Developing Machine learning solutions for the developing world through building models and suporting infrastructure.
+            My research ranges from measuring the quality infrastructure from satellite imagery, using Fishing boats as anchor loads for minigrids to estimating 
+            global river discharge based on satellite observations.
+
+
+
+- company:  Merck Sharp & Dohme. (MSD)
+  position: Intern/Resident Scientist
+  duration: Jun, 2018  &mdash; Aug, 2018.
+  summary: Prototyped and developed an IoT-enabled, cloud connected smart tag for detecting onset of estrus cycles in cows.
+
+
+- company:  Carnegie Mellon University
+  position: Teaching Assistant 
+  duration: Fall, 2018  &mdash; Spring, 2018.
+  summary: Teaching Assistant for 4 classes; Deep Learning, Big Data Analytics, Introduction to Data Science and Applied Machine Learning courses.
+
+- company:  Grameen Foundation
+  position: Machine Learning Engineer 
+  duration: Jan, 2015  &mdash; July, 2016.
+  summary: Developed machine learning models for predicting loan repayment in SACCOs based on individual members lending behavior.
