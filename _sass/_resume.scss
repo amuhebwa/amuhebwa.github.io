@@ -33,7 +33,7 @@
   .header-name {
     @include sans;
     font-size: 2.0rem; // Aggrey: Initially 3rem
-    font-weight: 900;
+    font-weight: bold; // Aggrey: Initially 900
     color:royalblue;
     text-align: center;
     letter-spacing: -.15rem;
