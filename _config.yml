@@ -29,9 +29,10 @@ University of Massachusetts - Amherst. I am advised by prof. Jay Taneja.</p>
 from Makerere University in Uganda. </p>
 <p>I am primarily interested in using machine learning and satellite data for sustainable decision-making in sub-saharan Africa.
 Broadly, I am interested in studying the impact of natural and build infrastructure on socio-economic development under data and computational constraints.
-I am part of STIMA Lab@UMASS, eGUIDE (Electricity Growth and Use In Developing Economies) Initiative, and a member of DAWG( Discharge Algorithm Working Group) - 
-A consortium of Hydrologists building machine learning algorithms for the 
-upcoming NASA SWOT Mission due early 2020
+</p>
+<p>
+I am a member of STIMA Lab, eGUIDE (Electricity Growth and Use In Developing Economies) Initiative, and DAWG (Discharge Algorithm Working Group) - 
+A consortium of Hydrologists building machine learning algorithms for the upcoming NASA SWOT Mission.
 </p>"
 
 # use "yes" to display the email contact button,
@@ -42,7 +43,7 @@ resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
+resume_section_experience:      false
 resume_section_education:       false
 resume_section_projects:        true
 #resume_section_skills:          true
