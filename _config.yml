@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Aggrey Muhebwa <br>
 description: <br> Ph.D Student & Graduate Research Scientist.<br><br> Contact:<a href="mailto:muhebwa.grey@gmail.com"> amuhebwa at umass dot edu</a>. I sometimes share my not so smart thoughts on Twitter :<a href="https://twitter.com/m_aggrey"> @m_aggrey</a>.
 logo: /img/avatar.png
-auto_ids: true
+auto_ids: false
