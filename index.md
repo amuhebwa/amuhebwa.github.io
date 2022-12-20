@@ -1,15 +1,18 @@
-# Aggrey M. Muhebwa
-I am a fifth year (yes, 5 years) Ph.D student in Electrical and Computer Engineering at the University of Massachusetts Amherst where I am a member of STIMA Lab, and honored to be advised by Prof. jay Taneja. <br>
-I am a [UN-IPCC](https://www.ipcc.ch/) scholar, an [e-GUIDE](https://eguide.io/) fellow and part of 
-[DAWG](https://swot.jpl.nasa.gov/documents/4050/) - a consortium of scientists building both physics-based and machine learning algorithms for the upcoming NASA SWOT Mission. <br>
-I completed my masters degree in Electrical and Computer Engineering from Carnegie Mellon University, and a bachelors degree in Computer Engineering from Makerere University.
+## Job Market Alert
+I am currently on the job market. I am open to both Academic (Assistant Professorship) and Industrial (Applied Research Scientist, Machine Learning Engineer, Data Scientist, and Software Engineer).
+
+## About Me
+I am a 5th Ph.D student in Electrical and Computer Engineering at the University of Massachusetts Amherst where I am a member of STIMA Lab and honored to be advised by Prof. jay Taneja.<br>
+
+I am a [UN-IPCC](https://www.ipcc.ch/) scholar, an [e-GUIDE](https://eguide.io/) fellow and part of [DAWG](https://swot.jpl.nasa.gov/documents/4050/) - a consortium of scientists building both physics-based and machine learning algorithms for the upcoming NASA SWOT Mission. <br>
+
+Previously, I completed my masters degree in Electrical and Computer Engineering from Carnegie Mellon University, and a bachelors degree in Computer Engineering from Makerere University.
 
 <br>
 
 ## Experience
 
-In my previous life, I was Software Engineer, a Fullstack Engineer, an ML engineer, and Teaching Assistant. If you'd like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/amuhebwa/) or [CV](https://amuhebwa.github.io/muhebwa_CV).
-
+In my previous life, I was water transmission line inspector, a Software Engineer, a Fullstack Engineer, an ML engineer, and Teaching Assistant. If you'd like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/amuhebwa/) or [CV](https://amuhebwa.github.io/muhebwa_CV).
 
 
 <br>
