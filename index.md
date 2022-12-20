@@ -8,25 +8,22 @@ I completed my masters degree in Electrical and Computer Engineering from Carneg
 
 ## Experience
 
-If you'd like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/amuhebwa/) or [CV](https://amuhebwa.github.io/muhebwa_CV).
+In my previous life, I was Software Engineer, a Fullstack Engineer, an ML engineer, and Teaching Assistant. If you'd like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/amuhebwa/) or [CV](https://amuhebwa.github.io/muhebwa_CV).
 
 
 
 <br>
 
-## Research
+## Research Interests
 
-For an overview of my published work, see my [ORCiD page](https://orcid.org/0000-0003-3276-2141). Other places to find my research output are my [Utrecht University page](https://www.uu.nl/staff/HIOberman), [OSF](https://osf.io/d8c5f/), and [Google Scholar](https://scholar.google.nl/citations?user=myLQXrEAAAAJ). I post all of my ongoing work on [GitHub](https://github.com/hanneoberman). 
+I leverage machine learning (ML) and satellite data in order to support critical infrastructure (e.g., roads, electricity grid, and water resources) measurement and analysis, sustainable development, and understand the effect of anthropogenic climate change on water resources and the resulting impact on key sectors like clean energy generation, agriculture and transport. My research is interdisciplinary, sitting the nexus of Enviromental Engineering, Civil Engineering, Electrical and Computer Engineering, and Computer Science. <br>
+Side note: I am always open to collaborations and working on interesting data-driven problems with significant importance and applicability to the global south.
 
-Some examples of my research:
-
-- Work in progress on [{shinymice}](https://hanneoberman.shinyapps.io/shinymice-demo/), an online evaluation suite for missing data. 
-
-![](./img/hex.png)
-
-- My MSc thesis [Missing the Point: Non-Convergence in Iterative Imputation Algorithms](https://openreview.net/pdf?id=fHSVg6mVqpw), presented at ICML 2020 (ARTEMISS workshop).
-
-![](./img/conv.png)
+For an overview of my published work, see my [Google Scholar](https://scholar.google.com/citations?user=8mdZdQTo2SYC&hl=en). <br>
+Some of my ongoing projects
+- Global River Discharge from Pure Satellite Observations
+- Fair and Explainable Machine Learning Models in Hydrology
+- Improved Road Quality Prediction from Low Resolution and Sparse Satellite Imagery
 
 
-
+[Website template](https://hanneoberman.github.io/)
