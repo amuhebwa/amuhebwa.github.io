@@ -7,7 +7,7 @@ Previously, I completed my masters degree in Electrical and Computer Engineering
 
 ### Experience
 ---
-In my previous life, I was water transmission line inspector, a Software Engineer, a Fullstack Engineer, an ML engineer, and Teaching Assistant. If you'd like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/amuhebwa/) or [CV](https://amuhebwa.github.io/muhebwa_CV).<br>
+In my previous life, I was water transmission line inspector, a Software Engineer, a Fullstack Engineer, an ML engineer, and Teaching Assistant. If you'd like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/amuhebwa/) or [CV](https://github.com/amuhebwa/CV/blob/main/amuhebwa_CV_2022.pdf).<br>
 
 ### Research Interests
 ---
