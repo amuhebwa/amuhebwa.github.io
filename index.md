@@ -1,4 +1,8 @@
 # Aggrey M. Muhebwa
+I am a fifth year (yes, 5 years) Ph.D student in Electrical and Computer Engineering at the University of Massachusetts Amherst where I am part of Systems Towards Infrastructure Monitoring and Analytics (STIMA) Lab, and honored to be advised by Prof. jay Taneja. <br>
+I am an Intergovernmental Panel on Climate Change (IPCC) scholar, an e-GUIDE (Electricity Growth and Use in Developing Economies) fellow and part of 
+DAWG (Discharge Algorithm Working Group) - a consortium of scientists building both physics-based and machine learning algorithms for the upcoming NASA SWOT Mission. <br>
+I completed my masters degree in Electrical and Computer Engineering from Carnegie Mellon University, and my bachelors degree in Computer Engineering from Makerere University.
 
 Currently, I'm working as a lecturer and research associate at Utrecht University's [Methodology and Statistics department](https://www.uu.nl/en/organisation/methodology-and-statistics). 
 
