@@ -2,12 +2,10 @@
 ### About Me
 ---
 I am a 5th Ph.D student in Electrical and Computer Engineering at the **University of Massachusetts Amherst** where I am a member of STIMA Lab and honored to be advised by Prof. Jay Taneja.<br>
-I am a [UN-IPCC](https://www.ipcc.ch/) scholar, an [e-GUIDE](https://eguide.io/) fellow and part of [DAWG](https://swot.jpl.nasa.gov/documents/4050/) - a consortium of scientists building both physics-based and machine learning algorithms for the upcoming NASA SWOT Mission. <br>
-Previously, I completed my masters degree in Electrical and Computer Engineering from **Carnegie Mellon University**, and a bachelors degree in Computer Engineering from **Makerere University**.<br>
 
-### Experience
----
-In my previous life, I was water transmission line inspector, a Software Engineer, a Fullstack Engineer, an ML engineer, and Teaching Assistant. If you'd like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/amuhebwa/) or [CV](https://github.com/amuhebwa/CV/blob/main/amuhebwa_CV_2022.pdf).<br>
+I am a [UN-IPCC](https://www.ipcc.ch/) scholar, an [e-GUIDE](https://eguide.io/) fellow and part of [DAWG](https://swot.jpl.nasa.gov/documents/4050/) - a consortium of scientists building both physics-based and machine learning algorithms for the upcoming NASA SWOT Mission. <br>
+
+Previously, I completed my masters degree in Electrical and Computer Engineering from **Carnegie Mellon University**, and a bachelors degree in Computer Engineering from **Makerere University**.<br>
 
 ### Research Interests
 ---
@@ -20,3 +18,8 @@ For an overview of my published work, see my [Google Scholar](https://scholar.go
 - Global River Discharge from Pure Satellite Observations
 - Fair and Explainable Machine Learning Models in Hydrology
 - Improved Road Quality Prediction from Low Resolution and Sparse Satellite Imagery (Region of Study: Kenya)
+
+### Experience
+---
+In my previous life, I was water transmission line inspector, a Software Engineer, a Fullstack Engineer, an ML engineer, and Teaching Assistant. If you'd like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/amuhebwa/) or [CV](https://github.com/amuhebwa/CV/blob/main/amuhebwa_CV_2022.pdf).<br>
+
