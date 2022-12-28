@@ -15,8 +15,8 @@ My research is **interdisciplinary**, sitting at the nexus of Enviromental Engin
 
 For an overview of my published work, see my [Google Scholar](https://scholar.google.com/citations?user=8mdZdQTo2SYC&hl=en). <br>
 **Some of my ongoing projects include**:
-- Global River Discharge from Pure Satellite Observations: Can we leverage information from data region (e.g., North America) to improve discharge predictions in data sparse regions (e.g., global south) ?
-- Fair and Explainable Machine Learning Models in Hydrology: How trustworthy are machinel learning models trained and validate using heterogenous data from different geographic regions ?
+- Global River Discharge from Pure Satellite Observations: Can we leverage information from data rich regions (e.g., North America) to improve discharge predictions in data sparse regions (e.g., global south) ?
+- Fair and Explainable Machine Learning Models in Hydrology: How trustworthy are machine learning models trained and validate using heterogenous data from different geographic regions ?
 - Improved Road Quality Prediction from Low Resolution and Sparse Satellite Imagery (Region of Study: Kenya)
 
 ### Experience
