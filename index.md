@@ -11,7 +11,7 @@ Previously, I completed my masters degree in Electrical and Computer Engineering
 ---
 I leverage **machine learning (ML) and satellite data** in order to support critical infrastructure (e.g., roads, electricity grid, and water resources) measurement and analysis, **sustainable development**, and understand the effect of anthropogenic **climate change** on water resources and the resulting impact on key sectors like **clean energy generation, agriculture and transport.** <br>
 
-My research is interdisciplinary, sitting the nexus of Enviromental Engineering, Civil Engineering, Electrical and Computer Engineering, and Computer Science. <br>
+My research is **interdisciplinary**, sitting at the nexus of Enviromental Engineering, Civil Engineering, Electrical and Computer Engineering, and Computer Science. <br>
 
 For an overview of my published work, see my [Google Scholar](https://scholar.google.com/citations?user=8mdZdQTo2SYC&hl=en). <br>
 **Some of my ongoing projects include**:
