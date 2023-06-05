@@ -1,4 +1,4 @@
-**Job market alert**. *I am currently on the job market, open to both academic (Assistant Professorship) and industrial (Applied Research Scientist, Machine Learning Engineer, Data Scientist, and Software Engineer) roles.*
+**Job market alert**. *I am currently on the job market, open to both Applied research scientist and Post-Doctoral research roles.*
 ### About Me
 ---
 I am a 5th Ph.D student in Electrical and Computer Engineering at the **University of Massachusetts Amherst** where I am a member of STIMA Lab and honored to be advised by Prof. Jay Taneja.<br>
