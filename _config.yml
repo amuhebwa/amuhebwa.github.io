@@ -1,10 +1,10 @@
-remote_theme: pages-themes/slate@v0.2.0
+#remote_theme: pages-themes/slate@v0.2.0
 #remote_theme: pages-themes/tactile@v0.2.0
 #remote_theme: pages-themes/merlot@v0.2.0
 #remote_theme: pages-themes/hacker@v0.2.0
 #remote_theme: pages-themes/architect@v0.2.0
 #remote_theme: pages-themes/leap-day@v0.2.0
-#theme: minima #jekyll-theme-minimal
+theme: minima #jekyll-theme-minimal
 #theme: jekyll-theme-minimal
 title: Aggrey Muhebwa, PhD <br>
 description: <br> Postdoc | Ex UN-IPCC scholar | e-GUIDE fellow | Member of DAWG <br><br> Contact:<a href="mailto:muhebwa.grey@gmail.com"> amuhebwa at stanford dot edu</a>.
