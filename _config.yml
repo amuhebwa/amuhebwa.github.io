@@ -8,3 +8,4 @@ logo: /img/avatar.png
 auto_ids: true
 github:
   is_project_page: false
+repository:  # Leave this blank to disable the repository link
