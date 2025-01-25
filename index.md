@@ -3,7 +3,7 @@
 ---
 I am a second-year **Postdoctoral Researcher in Civil and Environmental Engineering at Stanford University**, where I am privileged to work with Prof. Khalid Osman. I completed my **PhD in Electrical and Computer Engineering from the University of Massachusetts Amherst** where I was a member of STIMA Lab, advised by Prof. Jay Taneja.<br>
 
-Thanks to the generosity of lots of people (and guidance of my PhD advisor), my PhD was funded through multiple streams: [UN-IPCC](https://www.ipcc.ch/) scholar (2021-2023), [e-GUIDE](https://eguide.io/) fellowship (2018-2023) and part of [DAWG](https://swot.jpl.nasa.gov/documents/4050/) (2019 - Present) - a consortium of scientists building both physics-based and machine learning algorithms for the upcoming NASA SWOT Mission. <br>
+Thanks to the generosity of lots of people (and guidance of my PhD advisor), my PhD was funded through multiple streams: [UN-IPCC](https://www.ipcc.ch/) scholar (2021-2023), [e-GUIDE](https://eguide.io/) fellowship (2018-2023), and [DAWG](https://swot.jpl.nasa.gov/documents/4050/) (2019 - Present) - a consortium of scientists building both physics-based and machine learning algorithms for the NASA SWOT Mission. <br>
 
 Previously, I completed my masters degree in **Electrical and Computer Engineering from Carnegie Mellon University** and a bachelors degree in **Computer Engineering from Makerere University**.<br>
 
