@@ -9,7 +9,7 @@ Previously, I completed my masters degree in **Electrical and Computer Engineeri
 
 ### Research Interests
 ---
-My research focuses on **leveraging AI to address sustainability challenges in climate change, water resources, and large-scale infrastructure systems**. I focus on developing and optimizing AI systems that prioritize environmental sustainability while enabling seamless collaboration and data sharing across diverse regions. Additionally, I am exploring the **potential of LLMs to tackle critical societal issues**, such as generating tailored first aid protocols for pesticide contaminations and uncovering insights from infrastructure assessment reports, among other applications.. <br>
+My research focuses on **leveraging AI to address sustainability challenges in climate change, water resources, and large-scale infrastructure systems**. I focus on developing and optimizing AI systems that prioritize environmental sustainability while enabling seamless collaboration and data sharing across diverse regions. Additionally, I am exploring the **potential of LLMs to tackle critical societal issues**, such as generating tailored first aid protocols for pesticide contaminations and uncovering insights from infrastructure assessment reports, among other applications. <br>
 
 My research is **interdisciplinary**, sitting at the nexus of Environmental Engineering, Civil Engineering, Electrical and Computer Engineering, and Computer Science. <br>
 
