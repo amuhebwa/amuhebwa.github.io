@@ -6,7 +6,8 @@
 #remote_theme: pages-themes/leap-day@v0.2.0
 theme: minima #jekyll-theme-minimal
 #theme: jekyll-theme-minimal
-title: Aggrey Muhebwa, PhD <br>
+# title: Aggrey Muhebwa, PhD <br>
+title: Aggrey Muhebwa, PhD
 description: <br> Postdoc | Ex UN-IPCC scholar | e-GUIDE fellow | Member of DAWG <br><br> Contact:<a href="mailto:muhebwa.grey@gmail.com"> amuhebwa at stanford dot edu</a>.
 logo: /img/avatar.png
 auto_ids: true
