@@ -1,5 +1,5 @@
 **Job market alert**. *I am currently on the job market, open to both Applied research scientist and Assistant Professorship roles.*<br>
-** 5-year goal**: Expert in building scalable energy and computationally efficient software systems to address human and infrastructure challenges.
+**5-year goal**: Expert in building scalable energy and computationally efficient software systems to address human and infrastructure challenges.
 ### About Me
 ---
 I am a second-year **Postdoctoral Researcher in Civil and Environmental Engineering at Stanford University**, where I am privileged to work with Prof. Khalid Osman. I completed my **PhD in Electrical and Computer Engineering from the University of Massachusetts Amherst** where I was a member of STIMA Lab, advised by Prof. Jay Taneja.<br>
