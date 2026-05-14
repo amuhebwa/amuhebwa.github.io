@@ -1,0 +1,8 @@
+# Social links shown on the About page (and optionally in the navbar).
+# Order here = display order.
+cv_pdf: /assets/pdf/cv.pdf
+email: muhebwa.grey@gmail.com
+github_username: amuhebwa
+linkedin_username: amuhebwa
+scholar_userid: 8mdZdQTo2SYC
+rss_icon: false
