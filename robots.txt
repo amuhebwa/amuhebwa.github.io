@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://amuhebwa.github.io/sitemap.xml
